@@ -22,6 +22,4 @@ SiteName=A0026205
 
 [Connection]
 DeploySvr1=A0026205.mobicontrol.cloud:5494
-DeploySvr1=S099137.mobicontrolcloud.com:5494
 McEnrollmentSvr1=A0026205.mobicontrol.cloud:443
-McEnrollmentSvr1=S099137.mobicontrolcloud.com:443
