@@ -1,0 +1,6 @@
+﻿<wap-provisioningdoc>
+  <characteristic version="10.0" type="DataWedgeMgr">
+    <parm name="ConfigurationFile" value="/sdcard/datawedge.db" />
+    <parm name="AutoImporting" value="1" />
+  </characteristic>
+</wap-provisioningdoc>
